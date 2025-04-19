@@ -25,7 +25,7 @@ A comprehensive ride booking system built with Spring Boot and PostgreSQL.
 ## Technical Stack
 
 - **Backend**: Spring Boot 3.2.3
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **Security**: Spring Security
 - **API Documentation**: Swagger/OpenAPI
 - **Build Tool**: Maven
