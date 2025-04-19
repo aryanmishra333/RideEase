@@ -1,6 +1,6 @@
 # RideEase - Ride Booking System
 
-A comprehensive ride booking system built with Spring Boot and PostgreSQL.
+A comprehensive ride booking system built with Spring Boot, MySQL and React.
 
 ## Features
 
