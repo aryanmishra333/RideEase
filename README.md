@@ -82,7 +82,7 @@ src/main/java/com/rideease/
 ## Setup and Installation
 
 1. Clone the repository
-2. Create a PostgreSQL database named `rideease`
+2. Create a MySQL database named `rideease`
 3. Update database credentials in `application.properties`
 4. Run the application using Maven:
    ```bash
